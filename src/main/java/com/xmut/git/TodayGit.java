@@ -14,5 +14,6 @@ public class TodayGit {
 
         System.out.println("2022 06 12 hello git2 ");
         System.out.println("2022 06 12 hello git3 ");
+        System.out.println("2022 06 12 hello git4 ");
     }
 }
